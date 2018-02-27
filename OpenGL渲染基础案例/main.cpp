@@ -42,6 +42,8 @@ GLBatch             triangleStripBatch;
 GLBatch             triangleFanBatch;
 
 
+
+
 //几何变换的管道
 GLGeometryTransform transformPipeline;
 M3DMatrix44f        shadowMatrix;
